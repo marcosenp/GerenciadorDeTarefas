@@ -15,4 +15,3 @@ namespace GerenciadorTarefas.Models
         public bool Concluida { get; set; }
     }
 }
-
