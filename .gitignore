@@ -1,3 +1,30 @@
-.vs/
+# Build 
 bin/
 obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# Mac e Linux
+.DS_Store
+Thumbs.db
+
+# Arquivos de log e temporários
+*.log
+*.tmp
+
+# Diretório de pacotes NuGet
+packages/
+
+# Arquivos de banco locais 
+*.db
+*.sqlite
